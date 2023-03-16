@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🧚‍♀️ I am a research assistant working at finstar lab, HKUST.
+- 🧐 My research interest is business statistics, especially on financial econometrics.
+
+# Projects
+
+## Jump Prediction
