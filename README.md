@@ -1,4 +1,4 @@
-### You will never learn, if you never try!
+# You will never learn, if you never try!
 
 <!--
 **shirleyweify/shirleyweify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,13 +18,8 @@ Here are some ideas to get you started:
 - 👱🏻‍♀️ Name: WEI, Fangyi (Shirley)
 - 🧚‍♀️ I am a research assistant working at finstar lab, HKUST.
 - 🧐 My research interest is business statistics, especially on financial econometrics.
-- 🔖 See more about me: shirleyweify.github.io
+- 🔖 See more about me: please visit https://shirleyweify.github.io
 
 # Projects
 
-## Jump Prediction
-
-This project is about stock jump prediction based on co-jump networks. We apply clustering methods and latent factor models in this project. We also work on portfolio sorting for performance analytics.
-
-- 2022.08.01 - present
-- With Dr. Yi Ding (University of Macau), Prof. Yingying Li (HKUST), Prof. Xinghua Zheng (HKUST), Ziyi Xu (Research Assistant, HKUST)
+### Jump Prediction, 2022.08 - present
