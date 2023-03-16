@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👱🏻‍♀️ Name: WEI, Fangyi (Shirley)
 - 🧚‍♀️ I am a research assistant working at finstar lab, HKUST.
 - 🧐 My research interest is business statistics, especially on financial econometrics.
-- 🔖 See more about me: please visit shirleyweify.github.io
+- 🔖 See more about me: https://shirleyweify.github.io
 
 # Projects
 
