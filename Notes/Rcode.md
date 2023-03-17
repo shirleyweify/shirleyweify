@@ -1,6 +1,23 @@
 # R Packages and Packed Functions
 http://www.cookbook-r.com/
 
+## Shortcut
+
+### Rstudio
+| Action | Keys |
+| ---- | ---- |
+| run | `command` + `enter` |
+| comment | `shift` + `command` + `C` |
+| uncomment | `shift` + `command` + `C` | Rstudio |
+
+### VS code
+| Action | Keys |
+| ---- | ---- |
+| run | `command` + `enter` |
+| comment | `Command` + `K`, `Command` + `C` |
+| uncomment | `Command` + `K`, `Command` + `U` |
+| format | `shift` + `option` + `F` |
+
 ## Data
 
 ### **Library: `dplyr` | `tidyr`**
