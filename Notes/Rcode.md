@@ -3,7 +3,7 @@ http://www.cookbook-r.com/
 
 ## Data
 
-### **Library: tibble | dplyr | tidyr**
+### **Library: `dplyr` | `tidyr`**
 https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
 
 | Function | Example |
@@ -13,7 +13,7 @@ https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
 | group_by | `group_by(year) %>% summarise(across(all_of(colnames(data)), ~ sum(.x, na.rm = TRUE)))` |
 | ungroup | removes grouping ... |
 
-### **Library: maditr**
+### **Library: `maditr`**
 Convert data between wide and long forms.
 
 | Function | Example |
