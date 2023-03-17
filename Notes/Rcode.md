@@ -6,17 +6,17 @@ http://www.cookbook-r.com/
 ### **Library: tibble | dplyr | tidyr**
 https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
 
-| Function | Description |
+| Function | Example |
 | ---- | ---- |
-| mutate | adds new variables and preserves existing ones |
-| filter | subset a data frame, retaining all rows that satisfy your conditions |
-| group_by | takes an existing tbl and converts it into a grouped tbl where operations are performed "by group" |
-| ungroup | removes grouping |
+| mutate | `mutate(var1 = var2 + var3)` |
+| filter | `filter(date >= "2010-01-01")` |
+| group_by | `group_by(year) %>% summarise(across(all_of(colnames(data)), ~ sum(.x, na.rm = TRUE)))` |
+| ungroup | removes grouping ... |
 
 ### **Library: maditr**
 Convert data between wide and long forms.
 
-| Function | Description |
+| Function | Example |
 | ---- | ---- |
-| melt | Wide form to long form |
-| dcast | Long form to wide form |
+| melt | wide form to long form ... |
+| dcast | long form to wide form ... |
