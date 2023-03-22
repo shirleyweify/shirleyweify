@@ -1,13 +1,10 @@
 # Useful Information
 
 
-## Markdown
-### Basic Syntax
-
+### Markdown Basic Syntax
 https://www.markdownguide.org/basic-syntax/
 
-## GitHub
-### Git Source Control
+### GitHub Source Control
 | Action | Description |
 | - | - |
 | `commit` | commit your changes to github |

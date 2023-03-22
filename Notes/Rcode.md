@@ -10,6 +10,10 @@ http://www.cookbook-r.com/
 | comment | `shift` + `command` + `C` |
 | uncomment | `shift` + `command` + `C` | Rstudio |
 
+### PyCharm
+| Action | Keys |
+| ---- | ---- |
+
 ### VS code
 | Action | Keys |
 | ---- | ---- |

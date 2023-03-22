@@ -25,9 +25,9 @@ https://www.guru99.com/linux-commands-cheat-sheet.html
 
 ## View and Modify
 - `vi` / `vim` *file*
-- enter "i" to modify
-- "esc" to exit modification mode
-- input ":wq" & "enter" to save and exit
+- enter `i` to modify
+- `esc` to exit modification mode
+- input `:wq` & `enter` to save and exit
 
 ## SSH Command
 - ssh *username@hostname* -p *port*
