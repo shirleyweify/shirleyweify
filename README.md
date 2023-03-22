@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### Jump Prediction, 2022.08 - present
 - [FinStaR@HKUST](https://finstar.ust.hk)
-- We aim to detect sharp increase or decrease in stock markets.
+- We aim to detect sharp increases or decreases in stock markets.
 
 ### HKUST Robo-Advisor, 2022.12 - 2023.02
 - [FinStaR@HKUST](https://finstar.ust.hk), HKUST(GZ)
