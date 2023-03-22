@@ -1,4 +1,4 @@
-# You will never learn, if you never try!
+# You will never know, if you never try!
 
 <!--
 **shirleyweify/shirleyweify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 👱🏻‍♀️ Name: WEI, Fangyi (Shirley)
-- ☘️ I am a research assistant working at finstar lab, HKUST.
+- 📍 MSc in Business Analytics, SBM, HKUST | BSc in Math, WHU
+- ☘️ I am a research assistant working in FinStaR lab, HKUST.
 - 🧐 My research interest is business statistics, especially on financial econometrics.
 
 <!--
@@ -28,3 +29,5 @@ Here are some ideas to get you started:
 # Projects
 
 ### Jump Prediction, 2022.08 - present
+
+In this project, we aim to detect sharp increase or decrease in stock market.
