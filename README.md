@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 # Projects
 
 ### Jump Prediction, 2022.08 - present
-- FinStaR@HKUST
+- [FinStaR@HKUST](https://finstar.ust.hk)
 
-### Robo-Advisor, 2022.12 - 2022.02
+### Robo-Advisor (Personal Financial Advisor), 2022.12 - 2023.02
 - FinStaR@HKUST, HKUST(GZ)
