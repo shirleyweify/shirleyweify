@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 
 ### Jump Prediction, 2022.08 - present
 - FinStaR@HKUST
+
+### Robo-Advisor, 2022.12 - 2022.02
+- FinStaR@HKUST, HKUST(GZ)
