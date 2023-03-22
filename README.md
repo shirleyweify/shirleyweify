@@ -29,5 +29,4 @@ Here are some ideas to get you started:
 # Projects
 
 ### Jump Prediction, 2022.08 - present
-
-In this project, we aim to detect sharp increase or decrease in stock market.
+- FinStaR@HKUST
