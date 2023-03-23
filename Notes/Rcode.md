@@ -22,6 +22,10 @@ http://www.cookbook-r.com/
 | uncomment | `Command` + `K`, `Command` + `U` |
 | format | `shift` + `option` + `F` |
 
+## Parallel
+
+### **Library: `foreach` | `doParallel`**
+
 ## Data
 
 ### **Library: `dplyr` | `tidyr`**
@@ -41,3 +45,8 @@ Convert data between wide and long forms.
 | ---- | ---- |
 | melt | wide form to long form ... |
 | dcast | long form to wide form ... |
+
+
+## Model
+
+### **Library: `rugarch`**
