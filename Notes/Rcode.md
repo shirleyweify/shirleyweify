@@ -34,7 +34,6 @@ http://www.cookbook-r.com/
 | ---- | ---- |
 | ".RData" | `load` / `save` |
 | ".csv" | `read.csv` / `write.csv` |
-| ".csv" | `readr::read_csv` |
 | ".sas7bdat" | `haven::read_sas` |
 
 ## Data
