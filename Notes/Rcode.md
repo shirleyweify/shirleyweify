@@ -18,12 +18,24 @@ http://www.cookbook-r.com/
 | uncomment | `Command` + `K`, `Command` + `U` |
 | format | `shift` + `option` + `F` |
 
-## Libraries
+## Basic
 
 ### Parallel
 
-| Library | function | Description |
-| - | - | - |
+| Library | Description |
+| - | - |
+| foreach |
+| doParallel |
+| doSnow |
+
+### System
+
+| Library | Description |
+| - | - |
+| tictoc |
+
+
+## Data Structure
 
 ### Read / Write data
 
@@ -34,7 +46,9 @@ http://www.cookbook-r.com/
 | ".csv" | `readr::read_csv` |
 | ".sas7bdat" | `haven::read_sas` |
 
-### **Library: `dplyr` | `tidyr`**
+### Data formatting
+
+- **Library: `dplyr` | `tidyr`**
 https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
 
 | Function | Example |
@@ -44,7 +58,7 @@ https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
 | group_by | `group_by(year) %>% summarise(across(all_of(colnames(data)), ~ sum(.x, na.rm = TRUE)))` |
 | ungroup | removes grouping ... |
 
-### **Library: `maditr`**
+- **Library: `maditr`**
 Convert data between wide and long forms.
 
 | Function | Example |
@@ -53,6 +67,8 @@ Convert data between wide and long forms.
 | dcast | long form to wide form ... |
 
 
-### GARCH Model
+## Model
 
-### **Library: `rugarch`**
+### GARCH
+
+- **Library: `rugarch`**
