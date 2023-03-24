@@ -1,5 +1,10 @@
 # Commands
 
+## MacOS Shortcut
+| Action | Description |
+| ---- | ---- |
+| `option` + `command` + `esc` | force to quit |
+
 ## MacOS Keyboard
 - launchctl stop com.apple.TextInputSwitcher
 - launchctl start com.apple.TextInputSwitcher
@@ -41,6 +46,9 @@ https://tmuxcheatsheet.com/
 | `tmux new -s` *session* | create a new session |
 | `tmux kill-ses -t` *session* | kill a session |
 | `tmux a -t` *session* | attach a session |
-| ctrl + b, $ | rename |
-| ctrl + b, d | detach from a session |
-| ctrl + b, s | show all sessions |
+
+| Action | Description |
+| ---- | ---- |
+| `ctrl` + `b`, `$` | rename |
+| `ctrl` + `b`, `d` | detach from a session |
+| `ctrl` + `b`, `s` | show all sessions |
