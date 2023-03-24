@@ -26,6 +26,17 @@ http://www.cookbook-r.com/
 
 ### **Library: `foreach` | `doParallel`**
 
+## Load
+
+### Read / Write data
+
+| Data type | Library::function |
+| ---- | ---- |
+| ".RData" | `load` / `save` |
+| ".csv" | `read.csv` / `write.csv` |
+| ".csv" | `readr::read_csv` |
+| ".sas7bdat" | `haven::read_sas` |
+
 ## Data
 
 ### **Library: `dplyr` | `tidyr`**
