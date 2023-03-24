@@ -32,7 +32,7 @@ http://www.cookbook-r.com/
 
 | Library | Description |
 | - | - |
-| tictoc | test
+| tictoc |
 
 
 ## Data Structure
