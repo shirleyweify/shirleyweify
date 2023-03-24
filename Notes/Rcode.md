@@ -8,11 +8,7 @@ http://www.cookbook-r.com/
 | ---- | ---- |
 | run | `command` + `enter` |
 | comment | `shift` + `command` + `C` |
-| uncomment | `shift` + `command` + `C` | Rstudio |
-
-### PyCharm
-| Action | Keys |
-| ---- | ---- |
+| uncomment | `shift` + `command` + `C` |
 
 ### VS code
 | Action | Keys |
@@ -22,11 +18,12 @@ http://www.cookbook-r.com/
 | uncomment | `Command` + `K`, `Command` + `U` |
 | format | `shift` + `option` + `F` |
 
-## Parallel
+## Libraries
 
-### **Library: `foreach` | `doParallel`**
+### Parallel
 
-## Load
+| Library | function | Description |
+| - | - | - |
 
 ### Read / Write data
 
@@ -36,8 +33,6 @@ http://www.cookbook-r.com/
 | ".csv" | `read.csv` / `write.csv` |
 | ".csv" | `readr::read_csv` |
 | ".sas7bdat" | `haven::read_sas` |
-
-## Data
 
 ### **Library: `dplyr` | `tidyr`**
 https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
@@ -58,6 +53,6 @@ Convert data between wide and long forms.
 | dcast | long form to wide form ... |
 
 
-## Model
+### GARCH Model
 
 ### **Library: `rugarch`**
