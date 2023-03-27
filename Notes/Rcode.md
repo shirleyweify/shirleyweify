@@ -34,6 +34,9 @@ http://www.cookbook-r.com/
 | - | - |
 | tictoc |
 
+### Error handling
+https://cran.r-project.org/web/packages/tryCatchLog/vignettes/tryCatchLog-intro.html
+
 
 ## Data Structure
 
