@@ -20,19 +20,46 @@ http://www.cookbook-r.com/
 
 ## Basic
 
-### Parallel
+### Parallel: `foreach`, `doParallel`, `doSNOW`
 
-| Library | Description |
-| - | - |
-| foreach |
-| doParallel |
-| doSnow |
+```
+    library(foreach)
+    library(doParallel)
+
+    cl <- makeCluster(core)
+    registerDoParallel(cl)
+
+    res = foreach(..., .combine = 'rbind') %dopar% {
+        return()
+    }
+
+    stopCluster(cl)
+```
+
+```
+    library(foreach)
+    library(doSNOW)
+
+    cl <- makeCluster(core)
+    registerDoSNOW(cl)
+
+    iterations <- length(seq(start, end, update))
+    pb <- txtProgressBar(max = iterations, style = 3)
+    progress <- function(n) setTxtProgressBar(pb, n)
+    opts <- list(progress = progress)
+
+    res = foreach(..., .combine = 'rbind', .options.snow = opts, .errorhandling="remove") %dopar% {
+        return()
+    }
+
+    stopCluster(cl)
+```
 
 ### System
 
 | Library | Description |
 | - | - |
-| tictoc |
+| tictoc | `tic("Task")`, `toc()` |
 
 ### Error handling
 https://cran.r-project.org/web/packages/tryCatchLog/vignettes/tryCatchLog-intro.html
