@@ -6,8 +6,11 @@
 | `option` + `command` + `esc` | force to quit |
 
 ## MacOS Keyboard
-- launchctl stop com.apple.TextInputSwitcher
-- launchctl start com.apple.TextInputSwitcher
+
+```
+launchctl stop com.apple.TextInputSwitcher
+launchctl start com.apple.TextInputSwitcher
+```
 
 ## Basic Linux Command
 https://www.guru99.com/linux-commands-cheat-sheet.html
