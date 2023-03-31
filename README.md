@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👱🏻‍♀️ Name: WEI, Fangyi (Shirley)
 - 📍 MSc in Business Analytics, SBM, HKUST | BSc in Math, WHU
-- ☘️ I am a research assistant working in FinStaR lab, HKUST.
+- ☘️ I am a research assistant working at the FinStaR lab, HKUST.
 - 🧐 My research interest is business statistics, especially on financial econometrics.
 
 <!--
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### Jump Prediction, 2022.08 - present
 - [FinStaR@HKUST](https://finstar.ust.hk)
-- We aim to detect sharp increases or decreases in stock markets.
+- Aim to detect sharp increases or decreases in stock markets.
 
 ### HKUST Robo-Advisor, 2022.12 - 2023.02
 - [FinStaR@HKUST](https://finstar.ust.hk), HKUST(GZ)
