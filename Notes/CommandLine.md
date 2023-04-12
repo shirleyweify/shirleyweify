@@ -28,8 +28,18 @@ https://www.guru99.com/linux-commands-cheat-sheet.html
 ## Copy and Paste
 | Command | Description |
 | ---- | ---- |
-| `cp -r` *copypath* *pastepath* | copy & paste recursively |
+| `mv` | move: https://wangchujiang.com/linux-command/c/mv.html |
+| `cp -r` *copypath* *pastepath* | copy & paste recursively: https://wangchujiang.com/linux-command/c/cp.html |
 | `scp -r` *copypath* *username@hostname:pastepath* `-P` *port* | remote copy & paste recursively |
+| `rsync` | local or remote sync files: https://www.ruanyifeng.com/blog/2020/08/rsync.html |
+
+## Disk Usage and Filesize
+https://webdevetc.com/blog/linux-command-cheatsheet-disk-usage-and-filesize-cheatsheet/
+
+| Command | Description |
+| ---- | ---- |
+| `df` | total hard drive disk usage |
+| `du` | file sizes, total directory sizes: https://www.redhat.com/sysadmin/du-command-options |
 
 ## View and Modify
 - `vi` / `vim` *file*
