@@ -62,8 +62,28 @@ tic("Task")
 toc()
 ```
 
+### File handling
+| Function | Details |
+| ---- | ---- |
+| `file.exists()` |
+| `file.create()` |
+| `file.path()` |
+| `dir.exists()` |
+| `dir.create()` |
+
 ### Error handling
 https://cran.r-project.org/web/packages/tryCatchLog/vignettes/tryCatchLog-intro.html
+
+
+
+## Data Type
+### Strings and characters
+| Function | Details |
+| ---- | ---- |
+| `gsub` | `gsub(".RData", ".csv", "xxx.RData")` |
+| `grepl` | contain or not: `grepl(".RData", "xxx.RData", fixed = TRUE)` |
+| `nchar` | number of characters in a string: `nchar("apple")` = 5 |
+| `substr` | `substr("apple", 3, 5)` = "ple" |
 
 
 
