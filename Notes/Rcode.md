@@ -85,6 +85,13 @@ https://cran.r-project.org/web/packages/tryCatchLog/vignettes/tryCatchLog-intro.
 | `nchar` | number of characters in a string: `nchar("apple")` = 5 |
 | `substr` | `substr("apple", 3, 5)` = "ple" |
 
+### Date and time
+| Function | Details |
+| ---- | ---- |
+| `strptime` | converts characters to time objects |
+| `strftime` | converts time objects to characters |
+| `lubridate::ymd` | `ymd("20100101")` = "2010-01-01" |
+
 
 
 ## Data Structure
