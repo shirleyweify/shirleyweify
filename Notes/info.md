@@ -3,6 +3,7 @@
 
 ### Markdown Basic Syntax
 https://www.markdownguide.org/basic-syntax/
+https://www.markdownguide.org/cheat-sheet/
 
 ### GitHub Source Control
 | Action | Description |
