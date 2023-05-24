@@ -1,4 +1,5 @@
 # R Packages and Packed Functions
+
 http://www.cookbook-r.com/
 
 
@@ -72,6 +73,7 @@ toc()
 | `dir.create()` |
 
 ### Error handling
+
 https://cran.r-project.org/web/packages/tryCatchLog/vignettes/tryCatchLog-intro.html
 
 
@@ -104,6 +106,7 @@ https://cran.r-project.org/web/packages/tryCatchLog/vignettes/tryCatchLog-intro.
 
 ### Data wrangling
 - **Library: `dplyr` | `tidyr`**
+
 https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
 
 | Function | Example |
@@ -121,7 +124,7 @@ Convert data between wide and long forms.
 | Function | Example |
 | ---- | ---- |
 | melt | wide form to long form ... |
-| dcast | long form to wide form ... |
+| dcast | `df %>% dcast(LHS ~ RHS, value.var = "y", fun.aggregate = sum, na.rm = TRUE)` |
 
 
 
@@ -134,4 +137,5 @@ Convert data between wide and long forms.
 ## Chart
 ### Plot
 - **Library: `ggplot2`**
+
 https://homepages.gac.edu/~anienow2/MCS_142/R/ggplot2-basics.html

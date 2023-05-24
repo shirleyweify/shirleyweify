@@ -2,8 +2,12 @@
 
 
 ### Markdown Basic Syntax
+
 https://www.markdownguide.org/basic-syntax/
+
 https://www.markdownguide.org/cheat-sheet/
+
+- [Math formula](https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index)
 
 ### GitHub Source Control
 | Action | Description |
