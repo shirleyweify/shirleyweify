@@ -5,7 +5,9 @@ http://www.cookbook-r.com/
 
 
 ## Shortcut
+
 ### Rstudio
+
 | Action | Keys |
 | ---- | ---- |
 | run | `command` + `enter` |
@@ -139,3 +141,10 @@ Convert data between wide and long forms.
 - **Library: `ggplot2`**
 
 https://homepages.gac.edu/~anienow2/MCS_142/R/ggplot2-basics.html
+
+
+
+## R Markdown
+
+[cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+
