@@ -8,6 +8,7 @@
 | run |  |
 | comment | `command` + `/` |
 | uncomment | `command` + `/` |
+| Auto alignment | `command` + `option` + `L` |
 
 ### Jupyter Notebook
 | Action | Keys |

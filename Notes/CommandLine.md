@@ -32,6 +32,7 @@ https://www.guru99.com/linux-commands-cheat-sheet.html
 | `cp -r` *copypath* *pastepath* | copy & paste recursively: https://wangchujiang.com/linux-command/c/cp.html |
 | `scp -r` *copypath* *username@hostname:pastepath* `-P` *port* | remote copy & paste recursively |
 | `rsync` | local or remote sync files: https://www.ruanyifeng.com/blog/2020/08/rsync.html |
+| `rsync -anruv --include="*/" --include="bs_2020*.sas7bdat" --exclude="*" /mnt/ExtDiskB/TAQMSEC/raw/ /mnt/ExtDiskA/data/raw_2020` | Sync raw data of all stocks in year 2020 only |
 
 ## Disk Usage and Filesize
 https://webdevetc.com/blog/linux-command-cheatsheet-disk-usage-and-filesize-cheatsheet/

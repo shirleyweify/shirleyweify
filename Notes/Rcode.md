@@ -117,7 +117,7 @@ https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
 | mutate_at | `mutate_at(c('var1', 'var2'), fn)` |
 | mutate_if | `mutate_if(is.character, as.numeric)` |
 | filter | `filter(date >= "2010-01-01")` |
-| group_by | `group_by(year) %>% summarize(across(all_of(colnames(data)), ~ sum(.x, na.rm = TRUE)))` |
+| group_by | `group_by(year) %>% summarize(across(all_of(colnames(data)), ~ sum(.x, na.rm = TRUE)))`<br />`group_by(xxx) %>% summarize(yyy = list(unique(yyy)))` |
 | ungroup | removes grouping ... |
 
 - **Library: `maditr`**
@@ -128,6 +128,12 @@ Convert data between wide and long forms.
 | melt | wide form to long form ... |
 | dcast | `df %>% dcast(LHS ~ RHS, value.var = "y", fun.aggregate = sum, na.rm = TRUE)` |
 
+### Data formatting
+- **Library: `Hmisc`**
+
+| Function | Example |
+| ---- | ---- |
+| label |
 
 
 ## Model
