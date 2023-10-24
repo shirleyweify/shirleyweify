@@ -28,14 +28,15 @@ Here are some ideas to get you started:
 
 # Projects
 
+### Nested Deep Learning Model, 2023.09 - present
+
 ### Jump Prediction, 2022.08 - 2023.07
 - [FinStaR@HKUST](https://finstar.ust.hk)
 - Aim to detect jumps in stock prices based on cross-sectional information.
-- Form portfolios based on prediction results.
 
 ### HKUST Robo-Advisor, 2022.12 - 2023.02
 - [FinStaR@HKUST](https://finstar.ust.hk), HKUST(GZ)
 - Develop a website for portfolio management.
 
-### Research on Regression of House Prices on Incomes, 2020.12 - 2021.05
+### Research on Regression of House Prices on Incomes, 2020.12 - 2021.06
 - Linear regression model of house prices on income in mainland China.
