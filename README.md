@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 
 ### Jump Prediction, 2022.08 - 2023.07
 - [FinStaR@HKUST](https://finstar.ust.hk)
-- Aim to detect sharp increases or decreases in stock markets.
-- Form a long-short portfolio based on prediction results
+- Aim to detect jumps in stock prices based on cross-sectional information.
+- Form portfolios based on prediction results.
 
 ### HKUST Robo-Advisor, 2022.12 - 2023.02
 - [FinStaR@HKUST](https://finstar.ust.hk), HKUST(GZ)
-- Develop your own portfolio with the help of the robo-financial advisor.
+- Develop a website for portfolio management.
 
-### Research on Regression Application in House Prices, 2020.12 - 2021.05
-- Linear regression model of house prices on income
+### Research on Regression of House Prices on Incomes, 2020.12 - 2021.05
+- Linear regression model of house prices on income in mainland China.
