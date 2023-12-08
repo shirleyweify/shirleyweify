@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👱🏻‍♀️ Name: WEI, Fangyi (Shirley)
-- ☘️ I am currently a [PhD student]((https://www.hkubs.hku.hk/people/wei-fangyi/)) in Innovation and Information Management, FBE, HKU
+- ☘️ I am currently a [PhD student](https://www.hkubs.hku.hk/people/wei-fangyi/) in Innovation and Information Management, FBE, HKU
 - 📍 Past Experiences: Research Assistant, Finstar@HKUST | MSc in Business Analytics, SBM, HKUST | BSc in Math and Applied Math, WHU
 - 🧐 Research Interests: Deep Learning | Business Statistics | Financial Econometrics
 
