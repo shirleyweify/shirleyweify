@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👱🏻‍♀️ Name: WEI, Fangyi (Shirley)
-- ☘️ I am currently a PhD student in Business Analytics / Statistics / Data Science, FBE, HKU
+- ☘️ I am currently a [PhD student]((https://www.hkubs.hku.hk/people/wei-fangyi/)) in Innovation and Information Management, FBE, HKU
 - 📍 Past Experiences: Research Assistant, Finstar@HKUST | MSc in Business Analytics, SBM, HKUST | BSc in Math and Applied Math, WHU
 - 🧐 Research Interests: Deep Learning | Business Statistics | Financial Econometrics
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Nested Deep Learning Model, 2023.09 - present
 
-- Faculty of Business and Economics, The University of Hong Kong
+- [Faculty of Business and Economics, The University of Hong Kong](https://www.hkubs.hku.hk/)
 - PhD student
 
 ### Jump Prediction, 2022.08 - 2023.07
@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 ### Linear Regression of House Prices on Incomes in China mainland, 2020.12 - 2021.06
 
-- School of Mathematics and Statistics, Wuhan University
+- [School of Mathematics and Statistics, Wuhan University](https://maths.whu.edu.cn/)
 - Bachelor's thesis at Wuhan University
 - An econometric and statistical study on Chinese housing issues | Archived
