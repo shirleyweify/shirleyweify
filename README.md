@@ -17,26 +17,31 @@ Here are some ideas to get you started:
 
 - 👱🏻‍♀️ Name: WEI, Fangyi (Shirley)
 - ☘️ I am currently a PhD student in Business Analytics / Statistics / Data Science, FBE, HKU
-- 📍 Research Assistant in Finstar@HKUST | MSc in Business Analytics, SBM, HKUST | BSc in Math and Applied Math, WHU
-- 🧐 My research interest is machine learning in financial and healthcare data
-
-<!--
+- 📍 Past Experiences: Research Assistant, Finstar@HKUST | MSc in Business Analytics, SBM, HKUST | BSc in Math and Applied Math, WHU
+- 🧐 Research Interests: Deep Learning | Business Statistics | Financial Econometrics
 
 - 🔖 See more about me: https://shirleyweify.github.io
-
--->
 
 # Projects
 
 ### Nested Deep Learning Model, 2023.09 - present
 
+- Faculty of Business and Economics, The University of Hong Kong
+- PhD student
+
 ### Jump Prediction, 2022.08 - 2023.07
+
 - [FinStaR@HKUST](https://finstar.ust.hk)
-- Aim to detect jumps in stock prices based on cross-sectional information.
+- Research assistant
+- A study on stock jumps | Archived
 
 ### HKUST Robo-Advisor, 2022.12 - 2023.02
 - [FinStaR@HKUST](https://finstar.ust.hk), HKUST(GZ)
-- Develop a website for portfolio management.
+- Research assistant
+- A dynamic website design for portfolio management | Archived
 
-### Research on Regression of House Prices on Incomes, 2020.12 - 2021.06
-- Linear regression model of house prices on income in mainland China.
+### Linear Regression of House Prices on Incomes in China mainland, 2020.12 - 2021.06
+
+- School of Mathematics and Statistics, Wuhan University
+- Bachelor's thesis at Wuhan University
+- An econometric and statistical study on Chinese housing issues | Archived
