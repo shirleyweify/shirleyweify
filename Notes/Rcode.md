@@ -31,7 +31,7 @@ http://www.cookbook-r.com/
 cl <- makeCluster(core)
 registerDoParallel(cl)
 
-res = foreach(..., .combine = "rbind", .errorhandling = "stop") %dopar% {
+res = foreach(..., .combine = "rbind", .packages = c("dplyr", "matlib"), .errorhandling = "stop") %dopar% {
     ...
     return()
 }
