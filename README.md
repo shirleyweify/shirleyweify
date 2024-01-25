@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - Research assistant at FinStaR@HKUST
 - A dynamic website design for portfolio management | Archived
 
-### Linear Regression of House Prices on Incomes in China mainland, 2020.12 - 2021.06
+### Linear Regression of House Prices on Incomes in Mainland China, 2020.12 - 2021.06
 
 - Bachelor's thesis at Wuhan University
 - An econometric and statistical study on Chinese housing issues | Archived
