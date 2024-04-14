@@ -66,3 +66,18 @@ https://tmuxcheatsheet.com/
 | `ctrl` + `b`, `$` | rename |
 | `ctrl` + `b`, `d` | detach from a session |
 | `ctrl` + `b`, `s` | show all sessions |
+
+
+
+## Conda Environment
+
+| Command                                     | Description                                               |
+| ------------------------------------------- | --------------------------------------------------------- |
+| `conda create -n env_name python=3.9`       | Create a conda environment with python 3.9 version        |
+| `conda activate env_name`                   | To activate a conda environment                           |
+| `conda deactivate`                          | To deactivate an active conda environment                 |
+| `which python`                              | To view a conda env python path (serve as an interpreter) |
+| `conda install -n env_name package=version` | To install a package under a specific environment         |
+| `conda list -n env_name`                    | To see all packages installed in a specific environment   |
+| `conda env list` or `conda info --envs`     | Check all conda environments and env path                 |
+| `conda rename -n old_envname new_envname`   | Rename an environment                                     |
