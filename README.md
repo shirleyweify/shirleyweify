@@ -14,28 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👱🏻‍♀️ Name: WEI, Fangyi (Shirley)
-- ☘️ I am currently a [PhD student](https://www.hkubs.hku.hk/people/wei-fangyi/) in Innovation and Information Management at The University of Hong Kong
-- 📍 Past Experiences: Research Assistant, [Finstar@HKUST](https://finstar.ust.hk) | MSc in Business Analytics, HKUST | BSc in Mathematics and Applied Mathematics, Wuhan U.
-- 🧐 Research Interests: Deep Learning | Business Statistics | Financial Econometrics
+
+- 👋 Hi, there!
+- 👱🏻‍♀️ My name is Fangyi (Shirley) Wei from The University of Hong Kong.
+- ☘️ I am currently a [PhD student](https://www.hkubs.hku.hk/people/wei-fangyi/) in [The Statistics Group](https://hkubs-stat.github.io/) at HKU Business School.
+- 📍 Past Experiences: Research Assistant, [Finstar@HKUST](https://finstar.hkust.edu.hk/) | MSc in Business Analytics, HKUST | BSc in Mathematics and Applied Mathematics, Wuhan U.
+- 🧐 Research Interests: Machine Learning in Biostatistics (Neuroscience) | Financial Big Data Analytics | Business Statistics
 - 🔖 See more about me: https://shirleyweify.github.io
-
-# Projects
-
-### Nested Deep Learning Model, 2023.09 - present
-
-- PhD student at HKU
-
-### Jump Prediction, 2022.08 - 2023.07
-
-- Research assistant at FinStaR@HKUST
-- A study on stock jumps | Archived
-
-### HKUST Robo-Advisor, 2022.12 - 2023.02
-- Research assistant at FinStaR@HKUST
-- A dynamic website design for portfolio management | Archived
-
-### Linear Regression of House Prices on Incomes in Mainland China, 2020.12 - 2021.06
-
-- Bachelor's thesis at Wuhan University
-- An econometric and statistical study on Chinese housing issues | Archived
