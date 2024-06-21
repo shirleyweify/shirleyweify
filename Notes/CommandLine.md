@@ -75,9 +75,12 @@ https://tmuxcheatsheet.com/
 | ------------------------------------------- | --------------------------------------------------------- |
 | `conda create -n env_name python=3.9`       | Create a conda environment with python 3.9 version        |
 | `conda activate env_name`                   | To activate a conda environment                           |
+| `source activate env_name`                  | To activate a conda environment in a module               |
 | `conda deactivate`                          | To deactivate an active conda environment                 |
 | `which python`                              | To view a conda env python path (serve as an interpreter) |
 | `conda install -n env_name package=version` | To install a package under a specific environment         |
 | `conda list -n env_name`                    | To see all packages installed in a specific environment   |
 | `conda env list` or `conda info --envs`     | Check all conda environments and env path                 |
 | `conda rename -n old_envname new_envname`   | Rename an environment                                     |
+| `conda remove -n env_name --all`            | Remove / Delete an environment                            |
+
