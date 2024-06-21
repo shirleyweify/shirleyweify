@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, there!
-- 👱🏻‍♀️ My name is Fangyi (Shirley) Wei from The University of Hong Kong.
-- ☘️ I am currently a [PhD student](https://www.hkubs.hku.hk/people/wei-fangyi/) in [The Statistics Group](https://hkubs-stat.github.io/) at HKU Business School.
+- 👋 Hi, there! My name is **Fangyi Wei**.
+- 👱🏻‍♀️ I am currently a [PhD student](https://www.hkubs.hku.hk/people/wei-fangyi/) in [The Statistics Group](https://hkubs-stat.github.io/) at HKU Business School.
 - 📍 Past Experiences: Research Assistant, [Finstar@HKUST](https://finstar.hkust.edu.hk/) | MSc in Business Analytics, HKUST | BSc in Mathematics and Applied Mathematics, Wuhan U.
-- 🧐 Research Interests: Machine Learning in Biostatistics (Neuroscience) | Financial Big Data Analytics | Business Statistics
+- 🧐 Research Interests: Machine Learning in Biostatistics (Neuroscience) | Big Data Analytics | Business Statistics
 - 🔖 See more about me: https://shirleyweify.github.io
