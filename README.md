@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, there! My name is **Fangyi Wei**.
-- 👱🏻‍♀️ I am currently a [PhD candidate](https://www.hkubs.hku.hk/people/wei-fangyi/) in [Business Analytics Group](https://hkubs-stat.github.io/) in the IIM Department of HKU Business School.
+- 👱🏻‍♀️ I am currently a [PhD candidate](https://www.hkubs.hku.hk/people/wei-fangyi/) in the [Business Analytics Group](https://hkubs-stat.github.io/) in the IIM Department of HKU Business School.
 - 📍 Past Experiences: Research Assistant, [Finstar@HKUST](https://finstar.hkust.edu.hk/) | MSc in Business Analytics, HKUST | BSc in Mathematics and Applied Mathematics, Wuhan University
 - 🧐 Research Interests: Business Analytics | Data Science | AI Healthcare
 - 🌱 See more about me: https://shirleyweify.github.io
