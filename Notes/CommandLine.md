@@ -84,3 +84,57 @@ https://tmuxcheatsheet.com/
 | `conda rename -n old_envname new_envname`   | Rename an environment                                     |
 | `conda remove -n env_name --all`            | Remove / Delete an environment                            |
 
+
+## Git Command
+
+### Ignore .DS_Store in Macbook
+
+In the command line, locate your GitHub project folder then create git ignore file,
+
+- `touch .gitignore`
+
+Then enter the file and add commands,
+
+- `vim .gitignore`
+- enter `i` to insert contents
+- `**/.DS_Store`
+- enter `esc` to escape
+- write `:wq` then enter `enter` to save and quit
+
+### Usual .gitignore contents
+
+---------
+
+```
+
+**/.DS_Store
+
+# Pycharm specific files
+.idea/
+*.iml
+
+# Python compiled files and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment and package folders
+venv/
+.venv/
+
+# Build and distribution folders
+build/
+dist/
+
+```
+
+------
+
+### Apply .gitignore to Already Tracked Files (if necessary):
+
+git rm -r --cached .
+
+git add .
+
+git commit -m "Apply .gitignore rules"
